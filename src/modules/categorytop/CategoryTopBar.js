@@ -45,7 +45,7 @@ const CategoryTopBar = () => {
           onInit={handleReachBeginning}
           className="category-topbar"
         >
-          <span className="flex overflow-hidden transition-all ">
+          <span className="flex overflow-hidden transition-all">
             {categories.map((category) => (
               <SwiperSlide key={category._id}>
                 <NavLink

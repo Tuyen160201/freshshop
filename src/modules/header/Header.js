@@ -24,7 +24,7 @@ const Header = () => {
               <div className="tracking-normal flex justify-between grow-[1] shrink-[1] basis-0">
                 <NavLink
                   to="/"
-                  className="w-[100x] h-[52px] block tracking-normal text-[#0b74e5] no-underline bg-transparent cursor-pointer"
+                  className="w-[100px] h-[52px] block tracking-normal text-[#0b74e5] no-underline bg-transparent cursor-pointer"
                 >
                   <img
                     className="absolute w-[190px] h-[190px] top-[-64px] left-[-50px]"

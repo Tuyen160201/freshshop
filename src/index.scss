@@ -172,12 +172,13 @@ input:focus + .error-input {
 //styles slick slider
 .slick-slider {
   height: 100%;
+  max-width: 80vw;
   padding-left: 32px;
   padding-right: 32px;
   padding-bottom: 32px;
 }
 .slick-track {
-  width: 2036px !important;
+  // width: 2036px !important;
   display: flex;
   justify-content: space-between;
 }
